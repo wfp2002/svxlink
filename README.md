@@ -2,7 +2,7 @@
 
 Instalando Echolink no Linux (SVXLINK)
 
-sudo apt-get install g++ make libsigc++-1.2-dev libgsm1-dev libpopt-dev tcl8.5-dev libgcrypt-dev libspeex-dev libasound2-dev alsa-utils libqt4-dev git-core
+sudo apt-get install g++ make libsigc++-1.2-dev libgsm1-dev libpopt-dev tcl8.5-dev libgcrypt-dev libspeex-dev libasound2-dev alsa-utils libqt4-dev git-core sigc++
 
 Se der erro no comando abaixo como add-apt not found instale o seguinte:
 
