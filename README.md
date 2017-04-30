@@ -6,7 +6,7 @@ sudo apt-get install g++ make libsigc++-1.2-dev libgsm1-dev libpopt-dev tcl8.5-d
 
 Se der erro no comando abaixo como add-apt not found instale o seguinte:
 
-sudo apt-get install python-software-properties
+sudo apt-get install software-properties-common python-software-properties
 
 sudo add-apt-repository ppa:felix.lechner/hamradio
 
