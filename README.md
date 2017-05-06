@@ -1,4 +1,4 @@
-#Importando se no final quando executar o sudo svxlink der erro nos modulos como nao encontrado vide exemplo abaixo:
+#Importante se no final quando executar o sudo svxlink der erro nos modulos como nao encontrado vide exemplo abaixo:
 
 *** ERROR: Failed to load module ModuleEchoLink into logic SimplexLogic: /usr/bin/svxlink/ModuleEchoLink.so: cannot open shared object file: Not a directory
 
